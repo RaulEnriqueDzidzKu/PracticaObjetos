@@ -1,6 +1,6 @@
 # PracticaObjetos
 
-Programa usando herencia
+Programa para calcular àrea y perimetro de un cuadrado y un cubo usando herencia 
 
 Autor: Raul Enrique Dzidz Ku
 
